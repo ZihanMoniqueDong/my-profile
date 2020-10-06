@@ -1,0 +1,48 @@
+body{
+	font-family: 'Cardo', serif;
+	color: #CBAF87
+}
+h1,h2{
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight: 700;
+	color: #30475E
+}
+h3{
+	color: #30475E
+}
+.div-sub{
+    /* background: #E7DEC8; */
+    padding: 60px;
+    margin: 250px;
+    box-shadow: 0 10px 30px;
+    border-radius: 5px;
+}
+#Profile{
+	width: 200px;
+	height: 250px;
+	margin: 0px auto;
+	padding-left: 300px;
+	text-align: center;
+}
+.center{
+	text-align: center;
+}
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+#followme{
+	text-align: center;
+}
+.list-inline li{
+	display: inline;
+	padding: 8px;
+}
+.list-inline i{
+	font-size: 45px;
+	color: rgb(220,220,220);
+}
+.list-inline i:hover{
+	font-size: 45px;
+	color: #E7DEC8;
+}
